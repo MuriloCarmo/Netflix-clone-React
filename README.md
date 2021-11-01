@@ -1,2 +1,1 @@
-# Netflix-clone-React
-Clone do Netflix feito em ReactJS usando API TheMovieDB
+Netflix React Clone Utilizando API movieDB.
